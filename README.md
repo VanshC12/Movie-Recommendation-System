@@ -1,1 +1,1 @@
-Movie Recommendation System
+Movie Recommender System: A GitHub repository for a personalized movie recommendation system powered by collaborative filtering algorithms. Discover your next favorite movie with ease! 🎥🍿 #MachineLearning #RecommendationSystem #Python
